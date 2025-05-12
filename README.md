@@ -2,4 +2,4 @@
 
 Track of my coding activity using [Hackatime](https://hackclub.com/hackatime):
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1134&api_domain=hackatime.hackclub.com&theme=radical&layout=compact&langs_count=8&custom_title=Hackatime+Stats&cache_seconds=0)
+![Hackatime Stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=1134&api_domain=hackatime.hackclub.com&theme=radical&layout=compact&langs_count=8&custom_title=Hackatime+Stats&cache_seconds=0](https://github-readme-stats.hackclub.dev/api/wakatime?username=1134&api_domain=hackatime.hackclub.com&theme=blue-green&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
